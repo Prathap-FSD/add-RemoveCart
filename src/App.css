@@ -1,0 +1,46 @@
+.cd{
+  width: 280px;
+  margin: 36px 26px 0 26px;
+}
+.brand h2{
+  font-weight: 700;
+}
+.cartBtn span{
+ font-weight: 700;
+ background-color: rgb(0, 0, 0);
+ padding: 5px;
+ border-radius: 30px;
+}
+div.navBG{
+  position: -webkit-sticky;
+  position: sticky !important;
+  top: 0;
+}
+.navBg{
+  background-color: lightgray;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  padding-left: 96px;
+  padding-right: 96px;
+
+  justify-content: space-between;
+}
+.pro-desc{
+  text-align: justify;
+}
+.p-r-r{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+.p-btn{
+  display: flex;
+  justify-content: center;
+}
+.productApp{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
